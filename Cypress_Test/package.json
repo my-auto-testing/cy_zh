@@ -4,7 +4,8 @@
   "description": "automatad software testing with cypress",
   "main": "index.js",
   "scripts": {
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cu:run": "cypress run"
   },
   "keywords": [
     "testing",
